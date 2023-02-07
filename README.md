@@ -5,7 +5,7 @@ git clone https://github.com/eldinho2/React-form-progressBar.git
 ~~~
 ## Acesse o diretório do projeto:
 ~~~javascript
-cd React-undo-redo
+cd React-form-progressBar
 ~~~
 ## Instale as dependências do projeto:
 ~~~javascript
